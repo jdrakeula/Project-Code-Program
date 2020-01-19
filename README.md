@@ -1,7 +1,7 @@
 # Project-Code-Program
 
 A simple program with menu to perform various tasks.
-- Run file 'mainMenu.py' to start.
+- Run file 'coderesume.py' to start.
 - Select a number from the main menu to navigate.
 - Type "m" to bring up the menu again, and "q" to quit out of the program.
 
